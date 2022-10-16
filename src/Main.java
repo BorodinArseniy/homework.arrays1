@@ -55,6 +55,7 @@ public class Main {
         }
 
         //task4
+
         for (int i = 0; i < arr1.length; i++) {
             if (arr1[i]%2!=0){
                 arr1[i]+=1;
